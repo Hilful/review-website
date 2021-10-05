@@ -1,0 +1,11 @@
+.card-body {
+  background: linear-gradient(90deg, #f37335, #fdc830) !important;
+  margin-top: -25px;
+}
+.card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  box-shadow: 5px;
+  background: linear-gradient(90deg, #f37335, #fdc830);
+  border-width: 0px;
+}

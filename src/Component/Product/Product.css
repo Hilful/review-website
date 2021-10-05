@@ -1,0 +1,11 @@
+.service {
+  height: 200px;
+  width: 300px;
+}
+.buy {
+  background-color: rgb(44, 172, 70);
+  color: white;
+}
+.cardSection {
+  padding: 20px;
+}

@@ -1,0 +1,18 @@
+.body {
+  background: linear-gradient(90deg, #f37335, #fdc830);
+}
+.about-part {
+  display: flex;
+}
+.about {
+  text-align: center;
+  margin-top: 50px;
+  padding: 100px;
+}
+.fast-img {
+  height: 500px;
+  width: 600px;
+}
+.welcome-text {
+  color: rgb(223, 47, 16);
+}

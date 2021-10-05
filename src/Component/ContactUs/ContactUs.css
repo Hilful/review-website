@@ -1,0 +1,35 @@
+.contact-body {
+  background: linear-gradient(90deg, #f37335, #fdc830);
+  margin-top: -25px;
+}
+.contactUs {
+  display: flex;
+  margin-left: 200px;
+}
+.textSection {
+  color: #575757;
+  font-size: 14.23px;
+  background-color: #fddead;
+  height: 80px;
+  width: 300px;
+  border-radius: 20px;
+  border: 0;
+  resize: none;
+  padding: 10px 15px;
+  margin-right: 10px;
+
+  text-decoration: none;
+}
+.textarea {
+  color: #575757;
+  font-size: 14.23px;
+  background-color: #fddead;
+  height: 70px;
+  width: 90%;
+  border-radius: 20px;
+  border: 0;
+  resize: none;
+  padding: 10px 15px;
+  margin-right: 10px;
+  text-decoration: none;
+}
