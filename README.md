@@ -1,6 +1,6 @@
 # United International University
 
-This is the link of the wesite I created (https://github.com/ProgrammingHeroWC4/review-website-Hilful)
+This is the link of the website I created (https://github.com/ProgrammingHeroWC4/review-website-Hilful)
 
 ## Here is the live link of the site I created (https://united-international-university.netlify.app/)
 
